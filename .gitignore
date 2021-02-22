@@ -1,3 +1,7 @@
 Nepali_doc_back_up/
-nepali_documents/*
 test/
+# exclude everything
+nepali_documents/*
+
+# exception to the rule
+!nepali_documents/.gitkeep 
